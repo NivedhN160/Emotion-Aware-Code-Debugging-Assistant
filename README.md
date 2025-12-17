@@ -70,5 +70,8 @@ git clone https://github.com/yourusername/emotion-aware-debugging-assistant.git
 cd emotion-aware-debugging-assistant
 Install required dependencies:
 pip install opencv-python mediapipe deepface numpy
+
+---
+
 ### License
 This project is licensed under the MIT License.
