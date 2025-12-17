@@ -73,5 +73,5 @@ pip install opencv-python mediapipe deepface numpy
 
 ---
 
-### License
+## License
 This project is licensed under the MIT License.
